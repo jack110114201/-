@@ -1,0 +1,18 @@
+使用遠端桌面連線
+
+ip:3.113.29.214
+userid:Administrator
+password:koxhAS?ZRayMorAddS6*HzZMZ3LFh*wK
+
+
+SSL連線 遠端操作MongoDB
+在自已的電腦cmd上輸入
+ssh Administrator@3.113.29.214
+
+在輸入密碼
+koxhAS?ZRayMorAddS6*HzZMZ3LFh*wK
+
+成功之後
+輸入 cd C:\Users\Administrator\Documents\mongodb\bin
+
+在執行mongo
